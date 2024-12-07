@@ -13,19 +13,19 @@ Identify trends and patterns in vaccine administration.
 Support researchers, policymakers, and health organizations in making informed decisions.
 # Key Features
 
-Global and Regional Insights:
+# Global and Regional Insights:
 
 Explore vaccination progress country-wise or region-wise.
 
 Compare vaccination rates across demographics and time periods.
 
-Dynamic Dashboards:
+# Dynamic Dashboards:
 
 Interactive charts showing total vaccinations, vaccination rates, and doses administered.
 
 Heatmaps and timelines to visualize trends geographically and temporally.
 
-Data Exploration Tools:
+# Data Exploration Tools:
 
 Filters to segment data by vaccine type, age groups, and geographical regions.
 
@@ -37,7 +37,7 @@ Bar charts, line graphs, pie charts, and more, powered by Plotly.
 
 Ability to export visuals for presentations or reports.
 
-User-Friendly Platform:
+# User-Friendly Platform:
 
 Simple interface powered by Streamlit, allowing intuitive interaction for all users, including non-technical audiences.
 
